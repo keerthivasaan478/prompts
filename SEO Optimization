@@ -1,0 +1,111 @@
+I. Keyword Density 
+Prompt 1: Initial Keyword Brainstorming 
+ 
+      I am writing a blog post on [topic]. What are the primary keywords and related secondary 
+keywords I should target for SEO? Consider both broad and long-tail keywords. Please 
+provide search volume data and competition level for each keyword if available. 
+    
+ 
+Example: 
+      I am writing a blog post on "best hiking trails in Yosemite National Park". What are the 
+primary keywords and related secondary keywords I should target for SEO? Consider both 
+broad and long-tail keywords. Please provide search volume data and competition level for 
+each keyword if available. 
+ 
+Prompt 2: Keyword Density Analysis - Target 
+      For the primary keyword "[primary keyword from Prompt 1]" and the secondary keywords 
+"[list secondary keywords from Prompt 1]", what is an optimal keyword density range to aim 
+for in my content to maximize SEO benefits without sacrificing readability? 
+    
+ 
+Example: 
+      For the primary keyword "best hiking trails Yosemite" and the secondary keywords 
+"Yosemite hiking", "easy hikes Yosemite", "difficult hikes Yosemite", what is an optimal 
+keyword density range to aim for in my content to maximize SEO benefits without sacrificing 
+readability? 
+ 
+ 
+Prompt 3: Keyword Density Analysis - Existing Content 
+      I have the following text [paste text here]. Analyze the text and tell me the keyword 
+density for the following keywords: [list of keywords]. Are the keyword densities optimized for 
+SEO? If not, suggest changes. 
+ 
+Prompt 4: Keyword Placement 
+      Considering the primary keyword "[primary keyword]" and the secondary keywords "[list 
+secondary keywords]", where should these keywords be strategically placed within my 
+content (e.g., title, headings, first paragraph, image alt text) for maximum SEO impact? 
+ 
+II. Search Intent 
+Prompt 5: Search Intent Identification 
+      For the primary keyword "[primary keyword]", what is the dominant search intent behind 
+this query? Is it informational, navigational, transactional, or commercial investigation? 
+Provide evidence for your assessment. 
+    
+ 
+Example: 
+      For the primary keyword "best hiking trails Yosemite", what is the dominant search intent 
+behind this query? Is it informational, navigational, transactional, or commercial 
+investigation? Provide evidence for your assessment. 
+ 
+ 
+Prompt 6: Content Alignment with Search Intent 
+      Given that the search intent for "[primary keyword]" is [search intent from Prompt 5], 
+what type of content (e.g., listicle, guide, review, comparison) would best satisfy this intent 
+and rank well in search results? 
+ 
+Prompt 7: Content Gap Analysis 
+      I am writing a blog post on [topic] targeting the keyword "[primary keyword]". What 
+related subtopics or questions should I address in my content to fully satisfy the user's 
+search intent and provide a comprehensive resource? 
+ 
+Prompt 8: User Persona Development 
+      Describe the ideal user who would be searching for "[primary keyword]". What are their 
+needs, pain points, and goals? How can I tailor my content to resonate with this user 
+persona? 
+ 
+III. Readability Factors 
+ 
+ 
+Prompt 9: Readability Assessment 
+      Analyze the following text [paste text here] and provide a readability score using metrics 
+like the Flesch Reading Ease score and the Flesch-Kincaid Grade Level. Is the text easy to 
+understand for a general audience? 
+ 
+Prompt 10: Readability Improvement Suggestions 
+      Based on the readability analysis of the following text [paste text here], suggest specific 
+improvements to enhance clarity and readability. This may include simplifying sentence 
+structure, using shorter words, breaking up long paragraphs, and adding visual aids. 
+ 
+Prompt 11: Tone and Style Optimization 
+      What tone and style of writing would be most appropriate for a blog post on [topic] 
+targeting the keyword "[primary keyword]"? Should it be formal, informal, authoritative, 
+friendly, etc.? Provide examples of phrases or sentences that reflect this tone. 
+
+Prompt 12: Visual Aid Integration 
+Suggest specific types of visual aids (e.g., images, infographics, videos, charts) that 
+would enhance the readability and engagement of a blog post on [topic] targeting the 
+keyword "[primary keyword]". How should these visuals be optimized for SEO (e.g., alt text, 
+file names)? 
+
+Prompt 13: Grammar and Spelling Check 
+Analyze the following text [paste text here] and correct any grammatical errors or spelling 
+mistakes. 
+
+IV. Combining All Factors 
+
+Prompt 14: Holistic Optimization Review 
+I have written the following blog post [paste text here] targeting the keyword "[primary 
+keyword]". Please analyze the content holistically, considering keyword density, search intent 
+alignment, readability, and overall user experience. Provide specific recommendations to 
+improve its SEO performance and ability to rank higher in search results. 
+
+Prompt 15: Competitive Analysis 
+Analyze the top 3 ranking pages for the keyword "[primary keyword]". What are their 
+strengths and weaknesses in terms of keyword density, search intent alignment, readability, 
+and overall user experience? How can I create content that is better than theirs? 
+
+Prompt 16: Title and Meta Description Optimization 
+Suggest compelling and SEO-friendly titles and meta descriptions for a blog post on 
+[topic] targeting the keyword "[primary keyword]". The title should be concise, engaging, and 
+include the primary keyword. The meta description should accurately summarize the content 
+and entice users to click.

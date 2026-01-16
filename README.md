@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Keerthivasan  
 
 I'm a computerscience grad who loves Promptengineering.  
-- 🔭 Currently working at ENQOS  
+- 🔭 Currently working at FieldProxy YC
 - 📫 Reach me at Keerthivasanrajaram1@gmail.com
 
 📌 **Let's connect!**  
